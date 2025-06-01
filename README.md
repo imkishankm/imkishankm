@@ -40,7 +40,7 @@ A Replica of Netflix. Implemented Firebase authentication, custom hooks and opti
 
 ## 📫 Get in Touch
 
-- LinkedIn: [www.linkedin.com/in/kishan-mahaur-km](https://linkedin.com/in/yourname)  
+- LinkedIn: [www.linkedin.com/in/kishan-mahaur-km](https://linkedin.com/in/kishan-mahaur-km)  
 - Email: [kishanmahaurkm@gmail.com](mailto:kishanmahaurkm@gmail.com)  
 - Website/Portfolio: [yourdomain.dev](https://yourdomain.dev)
 
