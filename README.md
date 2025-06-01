@@ -18,6 +18,12 @@ I specialize in creating performant, scalable, and user-centric mobile experienc
 
 ## 📱 Featured Projects
 
+### 🚀 rn-demo
+This project is a React Native app that renders 10,000+ randomly generated name strings using SectionList, 
+Grouped by the first letter of each name. It showcases a modular, maintainable, and responsive UI with real-time filtering and sorting.
+**Tech:** React Native · JavaScript   
+🔗 https://github.com/imkishankm/rn-demo
+
 ### 🚀 namaste-react
 A News website, built with React . Implemented custom hooks and optimized performance for large user bases
 **Tech:** React · JavaScript . Tailwind CSS. Parcel. React Router. Jest  
