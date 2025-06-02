@@ -25,14 +25,19 @@ Grouped by the first letter of each name. It showcases a modular, maintainable, 
 🔗 https://github.com/imkishankm/rn-demo
 
 ### 🚀 namaste-react
-A News website, built with React . Implemented custom hooks and optimized performance for large user bases
+A News website, built with React. Implemented custom hooks and optimized performance for large user bases
 **Tech:** React · JavaScript . Tailwind CSS. Parcel. React Router. Jest  
 🔗 https://github.com/imkishankm/namaste-react
 
 ### 💼 netflix-gpt-react
 A Replica of Netflix. Implemented Firebase authentication, custom hooks and optimized performance for large user bases.  
-**Tech:** React · JavaScript · TypeScript . Tailwind CSS . Firebase . React Router . Jest . openai
+**Tech:** React · JavaScript . Tailwind CSS . Firebase . React Router . Jest . openai . Responsive 
 🔗 https://github.com/imkishankm/netflix-gpt-react
+
+### 🚀 my-youtube
+A Replica of YouTube. Implemented YouTube APIs, custom hooks and optimized performance for large user bases.  
+**Tech:** React · JavaScript . Tailwind CSS . React Router . Jest 
+🔗 https://github.com/imkishankm/my-youtube
 
 ---
 
